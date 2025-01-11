@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="rating">Оценка</string>
+    <string name="string_tittle_color">Цветовое качество</string>
+    <string name="string_exit">Выход из приложения</string>
+    <string name="hello_word">Hello Word</string>
+    <string name="Input">Введите оценку или случайное число</string>
+    <string name="Random">Случайное число</string>
+</resources>
